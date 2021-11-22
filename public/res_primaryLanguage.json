@@ -57,8 +57,8 @@
         "startDate": "",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "images": [
-          "images/portfolio/hobbies/switchmovieposter.jpg",
-          "images/portfolio/hobbies/theworldisyours.jpg"
+          "react-frontend-dev-portfolio/images/portfolio/hobbies/switchmovieposter.jpg",
+          "react-frontend-dev-portfolio/images/portfolio/hobbies/theworldisyours.jpg"
         ],
         "url": "",
         "technologies": [
