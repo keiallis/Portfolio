@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Keia Watkins. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.💜",
+      "description": "👋 I'm Keia! I am an artist so I do all the things and I am pretty amazing at some of them. I love to learn new things and find diffrent ways to express myself and communicate effectively. I come from an amazingly huge family that means the world to me. As the oldest of eight with no children of my own, my neices and nephews give me life and you can always catch Auntie Keia chilling at family events. My background has allowed me to work in many industries on a variety of levels. During the pandemic, I started my own publication company because life is too short to be miserable. Currently, I build websites and provide business operational support to fellow entrepreneurs to fund my dreams of writing for the screen.💜",
       "section_name": {
         "about": "About me",
         "projects": "Interests",
@@ -11,12 +11,12 @@
     },
     "projects": [
       {
-        "title": "Events",
+        "title": "Special Events",
         "startDate": "",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "One of my favorite things to do is plan special events for my family. Somebody's gotta make sure all the baby showers, graduations, holiday barbeques, bridal showers, and bachelorette trips go off without a hitch!",
         "images": [
-          "images/portfolio/events/headshotmiami_edited.jpg",
-          "images/portfolio/events/herflowers_aiff2020.jpg"
+          "react-frontend-dev-portfolio/images/portfolio/events/Ribbon.jpg",
+          "react-frontend-dev-portfolio/images/portfolio/events/jillandrewtaylor.jpg"
         ],
         "url": "",
         "technologies": [
@@ -34,11 +34,11 @@
       {
         "title": "Photography",
         "startDate": "",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "I have always had an eye for detail and that is reflected most in my photography. As a teenager with so many kids at home, I often got away with murder because nobody paid attention to the small stuff. I have yet to meet anyone who truly appreciats the little things like I do. I learned from my military experience that the devil is in the details...now, I live for the minutae of mundane tasks.",
         "images": [
-          "images/portfolio/photography/img_7962.jpg",
-          "images/portfolio/photography/img_0566.jpg",
-          "images/portfolio/photography/srossbrowne.jpg"
+          "react-frontend-dev-portfolio/images/portfolio/photography/img_0566.jpg",
+          "react-frontend-dev-portfolio/images/portfolio/photography/img_7962.jpg",
+          "react-frontend-dev-portfolio/images/portfolio/photography/srossbrowne.jpg"
         ],
         "url": "",
         "technologies": [
@@ -58,7 +58,7 @@
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "images": [
           "react-frontend-dev-portfolio/images/portfolio/hobbies/switchmovieposter.jpg",
-          "react-frontend-dev-portfolio/images/portfolio/hobbies/theworldisyours.jpg"
+          ""
         ],
         "url": "",
         "technologies": [

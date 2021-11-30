@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Keia Watkins",
-      "titles": [ "Screenwriter", "Novelist", "Biz Ops Specialist", "Front-End Web Developer" ],
+      "titles": [ "Screenwriter", "Poet", "Biz Ops Specialist", "Front-End Web Developer" ],
       "social": [
         {
           "name": "github",
@@ -14,7 +14,7 @@
           "class": "fab fa-twitter"
         }
       ],
-      "image": ""
+      "image": "react-frontend-dev-portfolio/images/portfolio/headshotmiami_edited.jpg"
     },
     "skills": {
       "icons": [

@@ -111,7 +111,7 @@ class App extends Component {
           >
             <span
               className="iconify language-icon"
-              data-icon="twemoji-flag-for-flag-united-kingdom"
+              data-icon="twemoji-flag-for-flag-pan-african"
               data-inline="false"
               id={window.$secondaryLanguageIconId}
             ></span>
