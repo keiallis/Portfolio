@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Keia! I am an artist so I do all the things and I am pretty amazing at some of them. I love to learn new things and find diffrent ways to express myself and communicate effectively. I come from an amazingly huge family that means the world to me. As the oldest of eight with no children of my own, my neices and nephews give me life and you can always catch Auntie Keia chilling at family events. My background has allowed me to work in many industries on a variety of levels. During the pandemic, I started my own publication company because life is too short to be miserable. Currently, I build websites and provide business operational support to fellow entrepreneurs to fund my dreams of writing for the screen.💜",
+      "description": "👋 I'm Keia! I am an artist so I do all the things and I am pretty amazing at some of them. I love to learn new things and find diffrent ways to express myself and communicate effectively. I come from an amazingly huge family that means the world to me. As the oldest of eight with no children of my own, my nieces and nephews give me life and you can always catch Auntie Keia chilling at family events. My background has allowed me to work in many industries on a variety of levels. During the pandemic, I started my own publication company because life is too short to be miserable. Currently, I build websites and provide business operational support to fellow entrepreneurs to fund my dreams of writing for the screen.💜",
       "section_name": {
         "about": "About me",
         "projects": "Interests",
@@ -15,8 +15,8 @@
         "startDate": "",
         "description": "One of my favorite things to do is plan special events for my family. Somebody's gotta make sure all the baby showers, graduations, holiday barbeques, bridal showers, and bachelorette trips go off without a hitch!",
         "images": [
-          "react-frontend-dev-portfolio/images/portfolio/events/Ribbon.jpg",
-          "react-frontend-dev-portfolio/images/portfolio/events/jillandrewtaylor.jpg"
+          "images/portfolio/events/Ribbon.jpg",
+          "images/portfolio/events/PoppiAudriMason copy.jpg"
         ],
         "url": "",
         "technologies": [
@@ -36,9 +36,9 @@
         "startDate": "",
         "description": "I have always had an eye for detail and that is reflected most in my photography. As a teenager with so many kids at home, I often got away with murder because nobody paid attention to the small stuff. I have yet to meet anyone who truly appreciats the little things like I do. I learned from my military experience that the devil is in the details...now, I live for the minutae of mundane tasks.",
         "images": [
-          "react-frontend-dev-portfolio/images/portfolio/photography/img_0566.jpg",
-          "react-frontend-dev-portfolio/images/portfolio/photography/img_7962.jpg",
-          "react-frontend-dev-portfolio/images/portfolio/photography/srossbrowne.jpg"
+          "images/portfolio/photography/img_0566.jpg",
+          "images/portfolio/photography/img_7962.jpg",
+          "images/portfolio/photography/srossbrowne.jpg"
         ],
         "url": "",
         "technologies": [
@@ -55,10 +55,10 @@
       {
         "title": "Hobbies",
         "startDate": "",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "My latest hobby is creating movie posters along with book and magazine covers. Check out the products of my imagination.",
         "images": [
-          "react-frontend-dev-portfolio/images/portfolio/hobbies/switchmovieposter.jpg",
-          ""
+          "images/portfolio/hobbies/switchmovieposter.jpg",
+          "images/portfolio/hobbies/SocietyMag.jpg"
         ],
         "url": "",
         "technologies": [
@@ -79,37 +79,37 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Kreed Publications",
+        "title": "Freelance Writer",
+        "years": "07.2020 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "React"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "Photoshop",
+          "InDesign",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "G Suite",
+          "Final Cut Pro",
+          "OSX",
+          "Zoom"
+          
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "General Services Administration",
+        "title": "Program Analyst",
+        "years": "08.2018 - 03.2019",
         "mainTech": [
-          "Angular 7/8"
+          "Amazon Web Services"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
+          "G Suite",
+          "Trello",
+          "Zoom",
           "JavaScript",
-          "DHTMLX Gantt"
+          "OSX"
         ]
       }
     ]
