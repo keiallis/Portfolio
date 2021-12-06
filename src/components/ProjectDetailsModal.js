@@ -29,7 +29,7 @@ class ProjectDetailsModal extends Component {
           );
         });
         if (this.props.data.images) {
-          var img = images.map((elem, i) => {
+          var image = images.map((elem, i) => {
             return <div key={i} data-src={elem} />;
           });
         }
@@ -73,7 +73,7 @@ class ProjectDetailsModal extends Component {
               animation="scaleOutAnimation"
               className="slider-image"
             >
-              {img}
+              {}
             </AwesomeSlider>
           </div>
           <div className="col-md-10 mx-auto">
